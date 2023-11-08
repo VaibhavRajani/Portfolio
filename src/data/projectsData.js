@@ -29,6 +29,15 @@ export const projectsData = [
     },
     {
         id: 3,
+        projectName: 'Food Order App',
+        projectDesc: 'Built a Food Order App using React, NextJS and Firebase.',
+        tags: ['React', 'NextJS', 'Firebase'],
+        code: 'https://github.com/VaibhavRajani/Food-Order-App',
+        demo: 'https://github.com/VaibhavRajani/Food-Order-App',
+        image: four
+    },
+    {
+        id: 4,
         projectName: 'MyYelp',
         projectDesc: 'Deployed a website that listed various camping sites around the world and their booking information. Defined efficient RESTful routes and integrated email authentication using Passport.js',
         tags: ['MongoDB', 'ExpressJS', 'React'],
@@ -37,7 +46,7 @@ export const projectsData = [
         image: three
     },
     {
-        id: 4,
+        id: 5,
         projectName: 'Pothole Detector',
         projectDesc: 'A simple application that uses the Google Maps API and a live dataset to display potholes in the Syracuse Area.',
         tags: ['Flutter', 'Google Maps API'],
@@ -46,7 +55,7 @@ export const projectsData = [
         image: six
     },
     {
-        id: 5,
+        id: 6,
         projectName: 'Dr Reshma',
         projectDesc: 'A freelance project for a Doctor based in Mumbai, India',
         tags: ['Node', 'ExpressJS'],
@@ -55,7 +64,7 @@ export const projectsData = [
         image: one
     },
     {
-        id: 6,
+        id: 7,
         projectName: 'Food Recipe App',
         projectDesc: 'An Android Application that lists various Food Recipes and demos using the YouTube API.',
         tags: ['Kotlin', 'Firebase'],
@@ -64,7 +73,7 @@ export const projectsData = [
         image: four
     },
     {
-        id: 7,
+        id: 8,
         projectName: 'Flixter Clone',
         projectDesc: 'Cloned the popular Flixter Application',
         tags: ['SwiftUI'],
@@ -73,7 +82,7 @@ export const projectsData = [
         image: five
     },
     {
-        id: 8,
+        id: 9,
         projectName: 'Gap International Clone',
         projectDesc: 'A tutorial application built with Swift that fetches data from a private API to display various tutorial videos.',
         tags: ['API Integration', 'Swift'],
